@@ -12,6 +12,7 @@ const Projects = () => {
   return (
     <div
       name="projects"
+      id='projects'
       className="w-full py-16 bg-gradient-to-b from-gray-800 to-black text-white"
     >
       <div className="max-w-screen-lg mx-auto p-4">
